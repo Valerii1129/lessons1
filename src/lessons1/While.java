@@ -1,5 +1,4 @@
 package lessons1;
-
 public class While {
     public static void main(String[] args) {
         String str = "hello";
