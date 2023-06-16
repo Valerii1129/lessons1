@@ -7,5 +7,4 @@ public class DoWhile {
             n--;
         }while(n>0);
     }
-
 }

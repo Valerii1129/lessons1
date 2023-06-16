@@ -11,5 +11,4 @@ public class While {
         }
         System.out.println(str2);
     }
-
 }
